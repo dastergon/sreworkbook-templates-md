@@ -2,7 +2,7 @@
 
 This is a collection of ported Markdown templates included in ["The Site Reliability Engineering Workbook"](https://landing.google.com/sre/book.html) regarding the Service Level Objectives and Error Budget Policy documents.
 
-Full description of each section, for each template can be found in ["The Site Reliability Engineering Workbook"](https://landing.google.com/sre/book.html).
+Full description of each section can be found in ["The Site Reliability Engineering Workbook"](https://landing.google.com/sre/book.html).
 
 ## Template List
 * [Error Budget Policy Template](error-budget.md)
